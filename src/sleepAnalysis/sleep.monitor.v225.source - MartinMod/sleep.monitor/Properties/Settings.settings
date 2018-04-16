@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="sleep.monitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fileExtn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">png</Value>
+    </Setting>
+    <Setting Name="fileContains1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">depth</Value>
+    </Setting>
+    <Setting Name="folderDefault" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="fileContains2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">infrared</Value>
+    </Setting>
+    <Setting Name="zeroPixelEnd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="peakLookAhead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="flipImage" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="speedDefault" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="zeroPixelStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
