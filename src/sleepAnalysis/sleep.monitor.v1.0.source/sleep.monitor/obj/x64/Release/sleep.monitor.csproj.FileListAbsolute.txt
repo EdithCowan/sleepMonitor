@@ -1,0 +1,54 @@
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\sleep.monitor.exe.config
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\cvextern.dll
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\opencv_core310d.dll
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\opencv_imgproc310d.dll
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\sleep.monitor.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\sleep.monitor.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\Emgu.CV.World.dll
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\bin\x64\Release\Emgu.CV.World.xml
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.Form1.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.Form2.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.Form3.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.Form4.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.Properties.Resources.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.csproj.GenerateResource.Cache
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\sleep.monitor\sleep.monitor\obj\x64\Release\sleep.monitor.csprojResolveAssemblyReference.cache
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\bin\x64\Release\cvextern.dll
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\bin\x64\Release\opencv_core310d.dll
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\bin\x64\Release\opencv_imgproc310d.dll
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\bin\x64\Release\sleep.monitor.exe.config
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\bin\x64\Release\sleep.monitor.exe
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\bin\x64\Release\sleep.monitor.pdb
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\bin\x64\Release\Emgu.CV.World.dll
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.Form1.resources
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.Form2.resources
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.Form3.resources
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.Form4.resources
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.Form5.resources
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.Form6.resources
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.Properties.Resources.resources
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.csproj.GenerateResource.Cache
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.exe
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.pdb
+D:\DDrive\projects\2016\SleepProject_Cameron\sleep.monitor.v225.source - MartinMod\sleep.monitor\obj\x64\Release\sleep.monitor.csprojResolveAssemblyReference.cache
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\bin\x64\Release\sleep.monitor.exe.config
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.exe
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.pdb
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\bin\x64\Release\cvextern.dll
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\bin\x64\Release\opencv_core310d.dll
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\bin\x64\Release\opencv_imgproc310d.dll
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\bin\x64\Release\sleep.monitor.exe
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\bin\x64\Release\sleep.monitor.pdb
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\bin\x64\Release\Emgu.CV.World.dll
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.csprojResolveAssemblyReference.cache
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.Form1.resources
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.Form2.resources
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.Form3.resources
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.Form4.resources
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.Form5.resources
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.Form6.resources
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.Properties.Resources.resources
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v225.source\sleep.monitor\obj\x64\Release\sleep.monitor.csproj.GenerateResource.Cache
+C:\Users\mmasek\Desktop\GitUpload\src\sleepAnalysis\sleep.monitor.v1.0.source\sleep.monitor\bin\x64\Release\sleep.monitor.exe.config
