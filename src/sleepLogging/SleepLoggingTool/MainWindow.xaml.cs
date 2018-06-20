@@ -193,79 +193,93 @@ namespace Microsoft.Samples.Kinect.DepthBasics
             // get the kinectSensor object
             this.kinectSensor = KinectSensor.GetDefault();
 
-            // For Colour Frames
+            // check windows version - to do
+           // OperatingSystem os = Environment.OSVersion;
+           // if (os.Platform == PlatformID.Win32NT)
 
-            // open the reader for the color frames
-            this.colorFrameReader = this.kinectSensor.ColorFrameSource.OpenReader();
+            // check that Kinect is installed
+            if (this.kinectSensor == null)
+            {
+                // no sensor connected
 
-            // wire handler for frame arrival
-            this.colorFrameReader.FrameArrived += this.Reader_ColorFrameArrived;
+            }
+            else
+            {
 
-            // create the colorFrameDescription from the ColorFrameSource using Bgra format
-            FrameDescription colorFrameDescription = this.kinectSensor.ColorFrameSource.CreateFrameDescription(ColorImageFormat.Bgra);
+                // For Colour Frames
 
-            // rgba is 4 bytes per pixel
-            this.bytesPerPixel = colorFrameDescription.BytesPerPixel;
+                // open the reader for the color frames
+                this.colorFrameReader = this.kinectSensor.ColorFrameSource.OpenReader();
 
-            // allocate space to put the pixels to be rendered
-            this.colorPixels = new byte[colorFrameDescription.Width * colorFrameDescription.Height * this.bytesPerPixel];
+                // wire handler for frame arrival
+                this.colorFrameReader.FrameArrived += this.Reader_ColorFrameArrived;
 
-            // create the bitmap to display
-            this.colorBitmap = new WriteableBitmap(colorFrameDescription.Width, colorFrameDescription.Height, 96.0, 96.0, PixelFormats.Bgr32, null);
+                // create the colorFrameDescription from the ColorFrameSource using Bgra format
+                FrameDescription colorFrameDescription = this.kinectSensor.ColorFrameSource.CreateFrameDescription(ColorImageFormat.Bgra);
 
-            // end For Colour Frames
+                // rgba is 4 bytes per pixel
+                this.bytesPerPixel = colorFrameDescription.BytesPerPixel;
 
-            // open the reader for the depth frames
-            this.depthFrameReader = this.kinectSensor.DepthFrameSource.OpenReader();
+                // allocate space to put the pixels to be rendered
+                this.colorPixels = new byte[colorFrameDescription.Width * colorFrameDescription.Height * this.bytesPerPixel];
 
-            // wire handler for frame arrival
-            this.depthFrameReader.FrameArrived += this.Reader_FrameArrived;
+                // create the bitmap to display
+                this.colorBitmap = new WriteableBitmap(colorFrameDescription.Width, colorFrameDescription.Height, 96.0, 96.0, PixelFormats.Bgr32, null);
 
-            // get FrameDescription from DepthFrameSource
-            this.depthFrameDescription = this.kinectSensor.DepthFrameSource.FrameDescription;
+                // end For Colour Frames
 
-            // allocate space to put the pixels being received and converted
-            this.depthPixels = new byte[this.depthFrameDescription.Width * this.depthFrameDescription.Height];
+                // open the reader for the depth frames
+                this.depthFrameReader = this.kinectSensor.DepthFrameSource.OpenReader();
 
-            // create the bitmap to display
-            this.depthBitmap = new WriteableBitmap(this.depthFrameDescription.Width, this.depthFrameDescription.Height, 96.0, 96.0, PixelFormats.Gray8, null);
+                // wire handler for frame arrival
+                this.depthFrameReader.FrameArrived += this.Reader_FrameArrived;
 
-            //For Infrared Frames
-            // open the reader for the infrared frames
-            this.infraredFrameReader = this.kinectSensor.InfraredFrameSource.OpenReader();
+                // get FrameDescription from DepthFrameSource
+                this.depthFrameDescription = this.kinectSensor.DepthFrameSource.FrameDescription;
 
-            // wire handler for frame arrival
-            this.infraredFrameReader.FrameArrived += this.Reader_InfraredFrameArrived;
+                // allocate space to put the pixels being received and converted
+                this.depthPixels = new byte[this.depthFrameDescription.Width * this.depthFrameDescription.Height];
 
-            // get FrameDescription from InfraredFrameSource
-            this.infraredFrameDescription = this.kinectSensor.InfraredFrameSource.FrameDescription;
+                // create the bitmap to display
+                this.depthBitmap = new WriteableBitmap(this.depthFrameDescription.Width, this.depthFrameDescription.Height, 96.0, 96.0, PixelFormats.Gray8, null);
 
-            // create the bitmap to display
-            this.infraredBitmap = new WriteableBitmap(this.infraredFrameDescription.Width, this.infraredFrameDescription.Height, 96.0, 96.0, PixelFormats.Gray32Float, null);
+                //For Infrared Frames
+                // open the reader for the infrared frames
+                this.infraredFrameReader = this.kinectSensor.InfraredFrameSource.OpenReader();
 
-            // end of infrared frames
+                // wire handler for frame arrival
+                this.infraredFrameReader.FrameArrived += this.Reader_InfraredFrameArrived;
 
-            // set IsAvailableChanged event notifier
-            this.kinectSensor.IsAvailableChanged += this.Sensor_IsAvailableChanged;
+                // get FrameDescription from InfraredFrameSource
+                this.infraredFrameDescription = this.kinectSensor.InfraredFrameSource.FrameDescription;
 
-            // open the sensor
-            this.kinectSensor.Open();
+                // create the bitmap to display
+                this.infraredBitmap = new WriteableBitmap(this.infraredFrameDescription.Width, this.infraredFrameDescription.Height, 96.0, 96.0, PixelFormats.Gray32Float, null);
 
-            // set the status text
-            this.StatusText = this.kinectSensor.IsAvailable ? Properties.Resources.RunningStatusText
-                                                            : Properties.Resources.NoSensorStatusText;
+                // end of infrared frames
 
-            // use the window object as the view model in this simple example
-            this.DataContext = this;
+                // set IsAvailableChanged event notifier
+                this.kinectSensor.IsAvailableChanged += this.Sensor_IsAvailableChanged;
+
+                // open the sensor
+                this.kinectSensor.Open();
+
+                // set the status text
+                this.StatusText = this.kinectSensor.IsAvailable ? Properties.Resources.RunningStatusText
+                                                                : Properties.Resources.NoSensorStatusText;
+
+                // use the window object as the view model in this simple example
+                this.DataContext = this;
 
 
 
-            // initialize the components (controls) of the window
-            this.InitializeComponent();
+                // initialize the components (controls) of the window
+                this.InitializeComponent();
 
 
-            // initialize the timer
-            initializeTimer();
+                // initialize the timer
+                initializeTimer();
+            }
 
         }
 

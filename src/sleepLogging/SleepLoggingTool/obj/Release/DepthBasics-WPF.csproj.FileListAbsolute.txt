@@ -12,3 +12,17 @@ C:\Users\hossein\Desktop\sleepLogger\obj\Release\Microsoft.Samples.Kinect.DepthB
 C:\Users\hossein\Desktop\sleepLogger\obj\Release\DepthBasics-WPF.csproj.GenerateResource.Cache
 C:\Users\hossein\Desktop\sleepLogger\obj\Release\SleepLoggingTool.exe
 C:\Users\hossein\Desktop\sleepLogger\obj\Release\SleepLoggingTool.pdb
+C:\Users\trailblazer\Desktop\SleepLogger\bin\AnyCPU\Release\SleepLoggingTool.exe.config
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\SleepLoggingTool.exe
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\SleepLoggingTool.pdb
+C:\Users\trailblazer\Desktop\SleepLogger\bin\AnyCPU\Release\SleepLoggingTool.exe
+C:\Users\trailblazer\Desktop\SleepLogger\bin\AnyCPU\Release\SleepLoggingTool.pdb
+C:\Users\trailblazer\Desktop\SleepLogger\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\trailblazer\Desktop\SleepLogger\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\MainWindow.baml
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\MainWindow.g.cs
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\App.g.cs
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\SleepLoggingTool_MarkupCompile.cache
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\SleepLoggingTool.g.resources
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\trailblazer\Desktop\SleepLogger\obj\Release\DepthBasics-WPF.csproj.GenerateResource.Cache
