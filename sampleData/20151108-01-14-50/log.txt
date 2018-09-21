@@ -1,0 +1,12 @@
+
+Log Entry : 
+1:14:50 AM Sunday, 8 November 2015
+  :
+  :Logging Started
+-------------------------------
+
+Log Entry : 
+7:09:39 AM Sunday, 8 November 2015
+  :
+  :Logging Stopped
+-------------------------------

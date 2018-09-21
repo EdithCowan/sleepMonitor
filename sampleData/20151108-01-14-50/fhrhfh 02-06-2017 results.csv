@@ -1,0 +1,35 @@
+Patient ID: 45456 Name: fhrhfh Age:  Gender:  Phone Number:  Email Address: 
+Assessor ID:  Name:  Phone Number:  Email: 
+Generated: 02-06-2017 01:21:55
+Folder: E:\sleepData\20151108-01-14-50
+Threshold value: 0.5798%
+Total sleep time: 05:54:38
+Images in series: 2590
+Image #,Segment #,Image Name,Comment,Side,SSL,Position,Segment Duration (Minutes),Elapsed Time (Minutes),Time of Day
+1,1,KinectScreenshot-Depth-20151108-01-14-58.png,,0,75.5 Minutes,00:00:00,8/11/2015 1:14:58 AM
+553,2,KinectScreenshot-Depth-20151108-02-30-30.png,,2,149, minutes,01:15:32,8/11/2015 2:30:30 AM
+708,2,KinectScreenshot-Depth-20151108-02-51-44.png,Hello position!,,,,,01:36:46,8/11/2015 2:51:44 AM
+1641,3,KinectScreenshot-Depth-20151108-04-59-32.png,,8,12.8, minutes,03:44:34,8/11/2015 4:59:32 AM
+1734,4,KinectScreenshot-Depth-20151108-05-12-17.png,,3,65.5, minutes,03:57:19,8/11/2015 5:12:17 AM
+2212,5,KinectScreenshot-Depth-20151108-06-17-49.png,,5,33.8, minutes,05:02:51,8/11/2015 6:17:49 AM
+2459,6,KinectScreenshot-Depth-20151108-06-51-39.png,,8,14.4, minutes,05:36:41,8/11/2015 6:51:39 AM
+2564,7,KinectScreenshot-Depth-20151108-07-06-03.png,,0,3.6, minutes,05:51:05,8/11/2015 7:06:03 AM
+*************************************************************************************************
+Sleep Position,Total Duration, (in minutes),% of Total,# Occurrences,Average Duration, (in minutes)
+0,79.1, minutes,22.3,2,39.5, minutes
+1,0, minutes,0,0,0, minutes
+2,149, minutes,42,1,149, minutes
+3,65.5, minutes,18.5,1,65.5, minutes
+4,0, minutes,0,0,0, minutes
+5,33.8, minutes,9.5,1,33.8, minutes
+6,0, minutes,0,0,0, minutes
+7,0, minutes,0,0,0, minutes
+8,27.2, minutes,7.7,2,13.6, minutes
+9,0, minutes,0,0,0, minutes
+10,0, minutes,0,0,0, minutes
+11,0, minutes,0,0,0, minutes
+12,0, minutes,0,0,0, minutes
+13,0, minutes,0,0,0, minutes
+14,0, minutes,0,0,0, minutes
+15,0, minutes,0,0,0, minutes
+16,0, minutes,0,0,0, minutes
